@@ -35,9 +35,3 @@ Depois, execute o projeto em modo desenvolvimento:
 ```bash
 ng serve
 ```
-
-Acesse no navegador:
-
-```
-http://localhost:4200/
-```
